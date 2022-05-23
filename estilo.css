@@ -1,0 +1,13 @@
+.img-1{
+    background-image: url(imagenes/1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.img-2{
+    background-image: url(imagenes/2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.rojo{
+    color: aqua;
+}
